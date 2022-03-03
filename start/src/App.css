@@ -1,0 +1,50 @@
+.app {
+  text-align: center;
+  background-color: rgb(112, 194, 96);
+}
+
+
+
+.header{
+  text-decoration: darkblue;
+  background-color: darkgray;
+  text-align-last: center;
+}
+
+.home{
+  background-color: orange;
+  text-decoration-style: double;
+  text-decoration-color: floralwhite;
+  text-emphasis-color: white;
+  text-align: center;
+  size: 100%;
+  font-size: xx-large;
+  
+  
+}
+
+.showstocks{
+  display: flex;
+  width: 100%;
+  
+}
+
+.buysell{
+  text-align: center;
+  background-color: orange;
+
+}
+
+.buysellbutton{
+  text-align: center;
+ size: 50%;
+ align-content: center;
+ background-color: grey;
+
+}
+
+.total{
+  background-color: rgb(216, 166, 73);
+  text-align: center;
+  size: 80%;
+}
